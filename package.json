@@ -27,7 +27,7 @@
     "@graphql-codegen/typescript": "^2.4.8",
     "@graphql-codegen/typescript-apollo-angular": "^3.4.7",
     "@graphql-codegen/typescript-operations": "^2.3.5",
-    "@descope/angular-sdk": "0.7.11",
+    "@descope/angular-sdk": "0.14.4",
     "@nestjs/apollo": "^10.0.4",
     "@nestjs/common": "^8.0.0",
     "@nestjs/config": "^1.2.1",
